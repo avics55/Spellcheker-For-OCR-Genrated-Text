@@ -7,4 +7,4 @@ The set intersection is used for checking similarity between the words.  The pad
 # LICENSE
 
 
-Copyright © 2019 AVINASH 
+Copyright © 2019 AVINASH KUMAR SHARMA 
